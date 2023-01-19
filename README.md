@@ -1,4 +1,4 @@
-## Unity Debugger Extension for Visual Studio Code
+# Unity Debugger Extension for Visual Studio Code
 
 This is a fork of a fork of the original debugger by Unity (now unsupported) which I will try to maintain.
 
@@ -53,4 +53,5 @@ git clone https://github.com/Unity-Technologies/vscode-unity-debug
 cd vscode-unity-debug
 git submodule update --init --recursive
 ```
+
 Then open `VSCode-UnityDebug.sln` in Visual Studio.
