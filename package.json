@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@types/node": "^14.14.7",
-    "make": "^0.0.0",
+    "make": "^0.8.1",
     "npm": "^9.3.1",
     "vscode-nls": "^5.0.0"
   },
