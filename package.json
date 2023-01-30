@@ -14,7 +14,7 @@
   ],
   "devDependencies": {
     "@types/vscode": "^1.74.0",
-    "ts-loader": "5.3.3",
+    "ts-loader": "9.4.2",
     "vscode-debugprotocol": "^1.51.0",
     "webpack": "^5.24.3",
     "webpack-cli": "^5.0.1"
