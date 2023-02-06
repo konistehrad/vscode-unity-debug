@@ -22,7 +22,7 @@
   "dependencies": {
     "@types/node": "^18.11.18",
     "make": "^0.8.1",
-    "npm": "^9.4.0",
+    "npm": "^9.4.1",
     "vscode-nls": "^5.2.0"
   },
   "categories": [
