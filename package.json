@@ -20,7 +20,7 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "@types/node": "^18.11.18",
+    "@types/node": "^18.11.19",
     "make": "^0.8.1",
     "npm": "^9.4.0",
     "vscode-nls": "^5.2.0"
