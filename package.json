@@ -16,13 +16,13 @@
     "@types/vscode": "^1.75.1",
     "ts-loader": "9.4.2",
     "vscode-debugprotocol": "^1.51.0",
-    "webpack": "^5.75.0",
+    "webpack": "^5.76.2",
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "@types/node": "^18.15.3",
     "make": "^0.8.1",
-    "npm": "^9.5.1",
+    "npm": "^9.6.2",
     "vscode-nls": "^5.2.0"
   },
   "categories": [
