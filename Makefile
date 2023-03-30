@@ -11,7 +11,6 @@ $UNITY_DEBUG:
 
 build:
 	tsc -p ./typescript
-	@echo "build finished"
 
 zip: $UNITY_DEBUG
 	rm -f unity-debug.zip
